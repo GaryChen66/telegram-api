@@ -1,5 +1,6 @@
 <?php
 
+//TG LOG
 declare(strict_types=1);
 
 namespace unreal4u\TelegramAPI;
